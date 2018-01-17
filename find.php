@@ -123,7 +123,7 @@ echo "<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.
 echo "<script src='https://code.jquery.com/jquery-3.2.1.slim.min.js' integrity='sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g='
 crossorigin='anonymous'></script>";
 
-echo "<link rel='stylesheet' href='mediaquxeries.css'>";
+
 echo "<link rel='stylesheet' type='text/css' href='style.css' />";
 
 
